@@ -1,6 +1,6 @@
 [gd_scene format=3 uid="uid://evyro2jvg10d"]
 
-[node name="Node2D" type="CanvasLayer"]
+[node name="Node2D" type="Node2D"]
 
 [node name="Label" type="Label" parent="."]
 offset_right = 40.0
